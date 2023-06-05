@@ -129,5 +129,5 @@ header .logo{
 header .toggle{
   max-width: 5px;
   cursor: pointer;
-  toggle-align: left;
+  text-align : left;
 }
